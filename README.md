@@ -1,3 +1,4 @@
+#파이썬 기본 문법
 print('Hello, world');print('Python Programming)
 #문자열을 붙여서 사용할 때는 세미콜론을 이용하여 구분해준다.
 if a== 10:
